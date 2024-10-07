@@ -8,6 +8,7 @@ Examples of using Python global variables in various scenarios.
 | VSCode    |   1.94.0 |
 | PyCharm   | 2024.2.1 |
 
+
 ## Change History
 
 | Date       | Description                             |
